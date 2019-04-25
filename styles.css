@@ -1,0 +1,76 @@
+html,body {
+    height: 100%;
+    margin: 0;
+}
+
+
+.full-width {	
+    width: 100%;
+    padding: 5px;
+    height: 80%;
+	color: #0D7377;
+    background-color: #212121;
+}
+
+.full-width-nivel_2 {	
+    width: 100%;
+    padding: 1px;
+    height: 5%;
+	color: white;
+    background-color: #323232;
+}
+
+
+
+.texto_nivel_1 {
+    position: relative;
+    text-align: center;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    top: 85% ;
+}
+
+.texto_nivel_2 {
+    position: relative;
+    text-align: center;
+    font-size: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    padding: 5px;
+}
+
+.texto_about {
+    position: relative;
+    text-align: center;
+    font-size: 12px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+    padding: 2px;
+}
+
+.linea_vertical{
+    position: absolute;
+    top: 72%;
+    border-top: 1px solid #0D7377;   
+    width: 30%;
+    margin-left:35%;
+}
+
+.linea_vertical_About_izq{
+    display:inline-block;
+    margin-left:38%; 
+    margin-right:5px; 
+    width: 10%;
+    border-top: 3px solid BLACK;   
+}
+
+.linea_vertical_About_der{
+    display:inline-block;
+    margin-left:5px; 
+    width: 10%;
+    border-top: 3px solid BLACK;   
+}
+
+.icon_ast{
+    display:inline-block;
+}
