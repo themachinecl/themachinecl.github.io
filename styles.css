@@ -71,6 +71,17 @@ html,body {
     border-top: 3px solid BLACK;   
 }
 
-.icon_ast{
+
+
+.menu_icon_izq {
     display:inline-block;
+    margin-left:38%;
+    margin-right:10%;
+    
+    
+}
+.menu_icon_der {
+    display:inline-block;
+    margin-left:10%; 
+    padding: 0px;
 }
