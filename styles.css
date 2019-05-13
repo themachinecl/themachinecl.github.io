@@ -75,13 +75,12 @@ html,body {
 
 .menu_icon_izq {
     display:inline-block;
-    margin-left:38%;
-    margin-right:10%;
+    margin-left:4%;
+    margin-right:5%;
     
     
 }
 .menu_icon_der {
     display:inline-block;
-    margin-left:10%; 
-    padding: 0px;
+    margin-left:46%;
 }
